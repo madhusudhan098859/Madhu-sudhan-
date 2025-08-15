@@ -36,15 +36,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-</p>
-
+<p>
+  
 ---
 
-### 📈 GitHub Stats 
-<p align="left">
-  <img 
-src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Compact Stats" width="450"/>
-</p>
+### 📊 GitHub Stats
+![Madhusudhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Madhusudhan)
 
 ---
-
