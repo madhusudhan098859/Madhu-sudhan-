@@ -1,4 +1,4 @@
-# Madhu-sudhan-
+# Madhu-sudhan
 <h1 align="center">Hi 👋, I'm Madhu</h1>
 <h3 align="center">AI & Data Science Student | Vibe coder</h3>
 
@@ -22,7 +22,7 @@
 
 ### 🛠 Tools I Use
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
   <img src="https://img.icons8.com/color/48/canva.png" width="40"/>
   <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019--v1.png" width="40"/>
